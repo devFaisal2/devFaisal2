@@ -4,6 +4,12 @@
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2FdevFaisal.com)](https://devFaisal.com)
 <br />
 
+### I'm Software Developer 👨‍💻
+- 😄 &nbsp; I enjoy making useful tools and apps
+- 🌱 &nbsp; I'm Full-stack Web Developer
+- ⚡ &nbsp; I'm interested in IOT and Robotics
+- 🔭 &nbsp; My goal is to make living in this world better
+
 ### Languages and Tools:
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -22,12 +28,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
