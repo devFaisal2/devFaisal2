@@ -7,7 +7,7 @@
 ### I'm Software Developer 👨‍💻
 - 😄 &nbsp; I enjoy making useful tools and apps
 - 🌱 &nbsp; I'm Full-stack Web Developer
-- ⚡ &nbsp; I'm interested in IOT and Robotics
+- 🤖 &nbsp; I'm interested in IOT and Robotics
 - 🔭 &nbsp; My goal is to make living in this world better
 
 ### Languages and Tools:
