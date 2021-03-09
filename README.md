@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/devFaisal_?color=1DA1F2&label=follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/devFaisal_)
 [![Website](https://img.shields.io/website?label=website&style=for-the-badge&url=https%3A%2F%2FdevFaisal.com)](https://devFaisal.com)
-<br /><br />
+<br />
 
 ### I'm Software Developer 👨‍💻
 - 😄 &nbsp; I enjoy making useful tools and apps
